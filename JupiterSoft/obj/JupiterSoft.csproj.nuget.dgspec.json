@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\JupiterProject\\logicstocontrolhardware\\JupiterSoft\\JupiterSoft.csproj": {}
+  },
+  "projects": {
+    "D:\\JupiterProject\\logicstocontrolhardware\\JupiterSoft\\JupiterSoft.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\JupiterProject\\logicstocontrolhardware\\JupiterSoft\\JupiterSoft.csproj",
+        "projectName": "JupiterSoft",
+        "projectPath": "D:\\JupiterProject\\logicstocontrolhardware\\JupiterSoft\\JupiterSoft.csproj",
+        "packagesPath": "C:\\Users\\Sandeep Arora\\.nuget\\packages\\",
+        "outputPath": "D:\\JupiterProject\\logicstocontrolhardware\\JupiterSoft\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sandeep Arora\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "FontAwesome.WPF": {
+              "target": "Package",
+              "version": "[4.7.0.9, )"
+            },
+            "ModernWpfUI": {
+              "target": "Package",
+              "version": "[0.9.4, )"
+            },
+            "ModernWpfUI.MahApps": {
+              "target": "Package",
+              "version": "[0.9.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
